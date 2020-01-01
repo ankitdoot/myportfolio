@@ -20,6 +20,6 @@ You can check here for responsiveness here : https://www.responsinator.com/
 
 ## Credits :
 
-I took inspiration from portfolio of **[Rishabh Kalakoti](https://rishabhkalakoti.github.io/)**
+I took inspiration from portfolio of [Rishabh Kalakoti](https://rishabhkalakoti.github.io/)
 
 You can connect with him on [GitHub](https://github.com/rishabhkalakoti)
