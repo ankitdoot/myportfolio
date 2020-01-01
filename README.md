@@ -15,8 +15,8 @@ _HTML5,CSS3_
 
 ## Contribute :
 
-You can contribute to this website by making it Responsive for different devices
-You can check here for responsiveness here : https://www.responsinator.com/
+You can contribute to this website by making it Responsive for different devices.
+You can check here for responsiveness  : https://www.responsinator.com/
 
 ## Credits :
 
