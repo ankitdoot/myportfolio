@@ -15,11 +15,8 @@ _HTML5,CSS3_
 
 ## Contribute :
 
-You can contribute to this website by making it Responsive for different devices.
-You can check here for responsiveness  : https://www.responsinator.com/
-
+You can contribute to this website by making it Moblie-Friendly.
 ## Credits :
 
 I took inspiration from portfolio of [Rishabh Kalakoti](https://rishabhkalakoti.github.io/)
 
-You can connect with him on [GitHub](https://github.com/rishabhkalakoti)
